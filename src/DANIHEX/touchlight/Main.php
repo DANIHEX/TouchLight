@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace touchlight;
+namespace DANIHEX\touchlight;
 
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
