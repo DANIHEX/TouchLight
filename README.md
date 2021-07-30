@@ -1,5 +1,4 @@
-[![](https://poggit.pmmp.io/shield.state/TouchLight)](https://poggit.pmmp.io/p/TouchLight)<a href="https://poggit.pmmp.io/p/TouchLight"><img src="https://poggit.pmmp.io/shield.state/TouchLight"></a>
-[![](https://poggit.pmmp.io/shield.api/TouchLight)](https://poggit.pmmp.io/p/TouchLight)<a href="https://poggit.pmmp.io/p/TouchLight"><img src="https://poggit.pmmp.io/shield.api/TouchLight"></a>
+[![Plugin Status](https://poggit.pmmp.io/shield.state/TouchLight)](https://poggit.pmmp.io/p/TouchLight) [![Plugin Version](https://poggit.pmmp.io/shield.api/TouchLight)](https://poggit.pmmp.io/p/TouchLight) [![Downloads](https://poggit.pmmp.io/shield.dl/TouchLight)](https://poggit.pmmp.io/p/TouchLight) [![Total Downloads](https://poggit.pmmp.io/shield.dl.total/TouchLight)](https://poggit.pmmp.io/p/TouchLight)
 
 # TouchLight
 Turn redstone lamps on or off by touching them
