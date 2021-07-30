@@ -12,5 +12,5 @@ Just place a redstone lamp and turn it on or off by touching or right clicking i
 # Versions
 Version | Information | Date | Api
 ------- | ----------- | ---- | ---
-v1.0.1 | Nothing important changed | 31 Jul 2021 | 3.0.0 -> 3.22.0
-v1.0.0 | First stable version | 30 Jul 2021 | 3.0.0 -> 3.22.0
+v1.0.1 | Nothing important changed | 31 Jul 2021 | 3.0.0 -> 3.22.1
+v1.0.0 | First stable version | 30 Jul 2021 | 3.0.0 -> 3.22.1
