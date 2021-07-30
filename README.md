@@ -1,3 +1,6 @@
+[![](https://poggit.pmmp.io/shield.state/TouchLight)](https://poggit.pmmp.io/p/TouchLight)<a href="https://poggit.pmmp.io/p/TouchLight"><img src="https://poggit.pmmp.io/shield.state/TouchLight"></a>
+[![](https://poggit.pmmp.io/shield.api/TouchLight)](https://poggit.pmmp.io/p/TouchLight)<a href="https://poggit.pmmp.io/p/TouchLight"><img src="https://poggit.pmmp.io/shield.api/TouchLight"></a>
+
 # TouchLight
 Turn redstone lamps on or off by touching them
 
